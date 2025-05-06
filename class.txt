@@ -9,4 +9,3 @@ Coral
 Silver
 Fuchsia
 Purple
-Brown
